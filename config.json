@@ -1,0 +1,15 @@
+{
+    "ID": "BOT-ID-HERE",
+    "prefix": ">",
+    "ownerID": "YOUR-ID-HERE",
+    "ownerID2": "YOUR-ID-HERE-OR-SECOND-OWNER-ID",
+    "activity": {
+        "type": "STREAMING",
+        "status": "visible",
+        "streamlink": "https://www.twitch.tv/min3craftpolska",
+    },
+    "options": {
+        "color": "#181215"
+    }
+}
+
