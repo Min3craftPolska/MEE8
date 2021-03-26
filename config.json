@@ -6,7 +6,7 @@
     "activity": {
         "type": "STREAMING",
         "status": "visible",
-        "streamlink": "https://www.twitch.tv/min3craftpolska",
+        "streamlink": "https://www.twitch.tv/min3craftpolska"
     },
     "options": {
         "color": "#181215"
